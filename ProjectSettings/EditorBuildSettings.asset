@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/RemoteAuthoring.unity
+    guid: a492a90695a774bcfa2f1df49dd69e2f
+  - enabled: 1
     path: Assets/Samples/Home/Scenes/Home.unity
     guid: ca5e717807acf4f0eac815ac612d2331
   - enabled: 1
