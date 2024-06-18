@@ -8,7 +8,7 @@ public class ComponentTap : MonoBehaviour
     private void Update()
     {
         // Check if the user tapped the screen
-        if (Input.touchCount > 0)
+       /** if (Input.touchCount > 0)
         {
             Touch touch = Input.GetTouch(0); // Get the first touch (you can handle multiple touches if needed)
 
@@ -41,6 +41,26 @@ public class ComponentTap : MonoBehaviour
                         }
                     }
                 }
+            }
+        }
+        **/
+        
+    }
+
+    public void Activate()
+    {
+        // Instantiate or activate the popup object
+        if (popupObject != null)
+        {
+            // If the popup object is not active, activate it
+            if (!popupObject.activeSelf)
+            {
+                popupObject.SetActive(true);
+            }
+            // Otherwise, deactivate it
+            else
+            {
+                popupObject.SetActive(false);
             }
         }
     }

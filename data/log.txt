@@ -1,0 +1,4 @@
+[09:48:43.495937 -05:00] [---D---] [argeo/ardk-next/core/components/component_factory_collection.cc:ComponentFactoryCollection:37] [thread 10807] api_key:sNsMfLdCNvfIjwOoaetgDgsNsMYQ5BZb1YauGZ85APQv5SOzxC3BunyRwn52vMpMh8TggF
+[09:48:43.497107 -05:00] [---W---] [argeo/ardk-next/common/ardk_settings/ardk_settings_manager.cc:SetFromFile:52] [thread 10807] Failed to read the feature flag file/Users/patrickobumselu/Documents/Unity/BotanicTether/Assets/StreamingAssets/featureFlag.json
+[22:56:51.167094 -05:00] [---D---] [argeo/ardk-next/core/components/component_factory_collection.cc:ComponentFactoryCollection:37] [thread 92179] api_key:sNsMfLdCNvfIjwOoaetgDgsNsMYQ5BZb1YauGZ85APQv5SOzxC3BunyRwn52vMpMh8TggF
+[22:56:51.168742 -05:00] [---W---] [argeo/ardk-next/common/ardk_settings/ardk_settings_manager.cc:SetFromFile:52] [thread 92179] Failed to read the feature flag file/Users/patrickobumselu/Documents/Unity/BotanicTether/Assets/StreamingAssets/featureFlag.json
