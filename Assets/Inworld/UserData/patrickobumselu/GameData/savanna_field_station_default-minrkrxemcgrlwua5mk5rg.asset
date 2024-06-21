@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5abd9eaac9cc3e4585d7e8574c2511c, type: 3}
+  m_Name: savanna_field_station_default-minrkrxemcgrlwua5mk5rg
+  m_EditorClassIdentifier: 
+  sceneFullName: workspaces/default-minrkrxemcgrlwua5mk5rg/scenes/savanna_field_station
+  apiKey: A4CxqNeTjPH2MLFs2ojkYP1PSBIgzIk1
+  apiSecret: D0J376jTiAzRo6gJRm3tIV2R5l5yNOTZoNBXmRNQcK3GJbo5ukpZa672Gl1OBRLj
+  characters:
+  - agentId: 
+    brainName: workspaces/default-minrkrxemcgrlwua5mk5rg/characters/oliver
+    givenName: Oliver
+    characterAssets:
+      rpmModelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/b05338b9-c690-43ed-b0cd-0a807c4c101f.glb
+      rpmImageUriPortrait: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/b05338b9-c690-43ed-b0cd-0a807c4c101f_portrait.jpg
+      rpmImageUriPosture: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/b05338b9-c690-43ed-b0cd-0a807c4c101f_posture.jpg
+      avatarImg: https://storage.googleapis.com/inworld-ai-usercontent-prod/2d_image/44fea904-066b-4a3f-b372-39a0a7bda1cd.jpg
+      avatarImgOriginal: https://storage.googleapis.com/inworld-ai-usercontent-prod/2d_image/44fea904-066b-4a3f-b372-39a0a7bda1cd-original.jpg
+      thumbnailProgress: 0
+      avatarProgress: 0
+    thumbnail: {fileID: 0}
+  capabilities:
+    audio: 1
+    emotions: 1
+    interruptions: 1
+    narratedActions: 0
+    regenerateResponse: 1
+    text: 1
+    triggers: 1
+    phonemeInfo: 1
+    relations: 1
+    debugInfo: 0
+    multiAgent: 1

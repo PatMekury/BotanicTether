@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.inworld.unity.core": "file:/Users/patrickobumselu/Documents/Unity/BotanicTether/Assets/Inworld/com.inworld.unity.core-3.4.0.tgz",
     "com.nianticlabs.lightship": "https://github.com/niantic-lightship/ardk-upm.git",
     "com.nianticlabs.lightship.sharedar": "https://github.com/niantic-lightship/sharedar-upm.git",
     "com.nianticlabs.lightship.wps": "https://github.com/niantic-lightship/wps-upm.git",
