@@ -13,8 +13,8 @@ AnimatorStateMachine:
     m_State: {fileID: 503294899550786489}
     m_Position: {x: 390, y: 120, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: -4473503576591511435}
-    m_Position: {x: 231.68085, y: 77.32831, z: 0}
+    m_State: {fileID: -8032518504865627812}
+    m_Position: {x: 290.40472, y: 56.988373, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -24,15 +24,15 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 503294899550786489}
---- !u!1102 &-4473503576591511435
+  m_DefaultState: {fileID: -8032518504865627812}
+--- !u!1102 &-8032518504865627812
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New State
+  m_Name: Bird_Flying
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -45,7 +45,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 0}
+  m_Motion: {fileID: 7400000, guid: f778b51d40b1e40a5a4f74974abc151f, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -80,7 +80,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: bird_Animation
+  m_Name: Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -93,7 +93,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f778b51d40b1e40a5a4f74974abc151f, type: 2}
+  m_Motion: {fileID: 7400000, guid: deb58293bbb6a412b920e91ca8cc095a, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

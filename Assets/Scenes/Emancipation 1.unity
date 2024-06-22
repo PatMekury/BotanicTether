@@ -1118,8 +1118,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _defaultAnchorGameobject: {fileID: 0}
-  _ContinuousLocalizationEnabled: 0
-  _InterpolationEnabled: 0
+  _ContinuousLocalizationEnabled: 1
+  _InterpolationEnabled: 1
   _autoTrack: 1
 --- !u!114 &958724722
 MonoBehaviour:
