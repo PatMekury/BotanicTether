@@ -64,7 +64,7 @@ namespace Niantic.Lightship.AR.Samples
             {
                 if (_AnchorTrackingStateText != null)
                 {
-                    _AnchorTrackingStateText.text = $"Anchor Tracked";
+                    _AnchorTrackingStateText.text = $" ";
                 }
             }
             else

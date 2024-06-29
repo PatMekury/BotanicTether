@@ -21,10 +21,7 @@ public class BirdAnimation : MonoBehaviour
         bcAnimator = GetComponent<Animator>();
     }
 
-    private void OnEnable()
-    {
-       
-    }
+   
 
     // Update is called once per frame
     void Update()
